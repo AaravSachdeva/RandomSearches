@@ -40,7 +40,7 @@ search_terms = [
 
 
 # Path to your msedgedriver.exe
-EDGE_DRIVER_PATH = r"C:/Users/aarav/OneDrive/Desktop/Edge Rewards/msedgedriver.exe"  # Replace with your actual path
+EDGE_DRIVER_PATH = r"./msedgedriver.exe"  # Replace with your actual path
 
 # Set up Edge options (optional)
 edge_options = Options()
